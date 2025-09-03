@@ -152,25 +152,12 @@ class GameResponse(BaseResponse):
 
     class Config:
         json_schema_extra = {
-            "examples": {
-                "truth_example": {
-                    "summary": "Truth example",
-                    "value": {
-                        "id": 1,
-                        "type": "truth",
-                        "content": "What is the most embarrassing thing you've ever done in public?",
-                        "category": "embarrassing",
-                    },
-                },
-                "dare_example": {
-                    "summary": "Dare example",
-                    "value": {
-                        "id": 1,
-                        "type": "dare",
-                        "content": "Do 10 jumping jacks",
-                        "difficulty": "easy",
-                    },
-                },
+            "example": {
+                "id": 1,
+                "type": "truth",
+                "content": "What is the most embarrassing thing you've ever done in public?",
+                "category": "embarrassing",
+                "difficulty": None,
             }
         }
 
