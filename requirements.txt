@@ -1,0 +1,14 @@
+# Production dependencies for Truth and Dare API
+# Based on FastAPI 0.116.1 and latest stable versions
+
+# Core FastAPI with all standard dependencies
+fastapi[standard]>=0.116.1
+
+# ASGI server for production
+uvicorn[standard]>=0.30.0
+
+# Configuration management
+pydantic-settings>=2.6.0
+
+# Already included with fastapi[standard] but specified for clarity:
+# pydantic>=2.9.0 - Data validation and serialization

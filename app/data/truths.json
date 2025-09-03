@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "content": "What is the most embarrassing thing you've ever done in public?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 2,
+    "content": "Who was your first crush and why did you like them?",
+    "category": "relationships"
+  },
+  {
+    "id": 3,
+    "content": "What's the weirdest dream you've ever had?",
+    "category": "funny"
+  },
+  {
+    "id": 4,
+    "content": "What's something you've never told your parents?",
+    "category": "deep"
+  },
+  {
+    "id": 5,
+    "content": "What's your biggest fear that you're too afraid to admit?",
+    "category": "deep"
+  },
+  {
+    "id": 6,
+    "content": "Have you ever lied about being sick to get out of something?",
+    "category": "general"
+  },
+  {
+    "id": 7,
+    "content": "What's the most childish thing you still do?",
+    "category": "funny"
+  },
+  {
+    "id": 8,
+    "content": "Have you ever stalked someone on social media for hours?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 9,
+    "content": "What's your most irrational fear?",
+    "category": "general"
+  },
+  {
+    "id": 10,
+    "content": "Have you ever had a crush on a friend's significant other?",
+    "category": "relationships"
+  },
+  {
+    "id": 11,
+    "content": "What's the strangest thing you believed as a child?",
+    "category": "funny"
+  },
+  {
+    "id": 12,
+    "content": "What's something you think about when you're alone that you'd never say out loud?",
+    "category": "deep"
+  },
+  {
+    "id": 13,
+    "content": "Have you ever pretended to like a gift you actually hated?",
+    "category": "general"
+  },
+  {
+    "id": 14,
+    "content": "What's the most embarrassing thing in your search history?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 15,
+    "content": "Have you ever broken up with someone over text?",
+    "category": "relationships"
+  },
+  {
+    "id": 16,
+    "content": "What's the funniest thing that's happened to you in the bathroom?",
+    "category": "funny"
+  },
+  {
+    "id": 17,
+    "content": "What's your biggest regret in life so far?",
+    "category": "deep"
+  },
+  {
+    "id": 18,
+    "content": "Have you ever stolen anything? What was it?",
+    "category": "general"
+  },
+  {
+    "id": 19,
+    "content": "What's the most embarrassing thing you've done in front of your crush?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 20,
+    "content": "Have you ever cheated on a test or exam?",
+    "category": "general"
+  },
+  {
+    "id": 21,
+    "content": "What's the worst date you've ever been on?",
+    "category": "relationships"
+  },
+  {
+    "id": 22,
+    "content": "What's the silliest thing you're afraid of?",
+    "category": "funny"
+  },
+  {
+    "id": 23,
+    "content": "What's one thing you would change about yourself if you could?",
+    "category": "deep"
+  },
+  {
+    "id": 24,
+    "content": "Have you ever pretended to be someone you're not to impress someone?",
+    "category": "general"
+  },
+  {
+    "id": 25,
+    "content": "What's the most embarrassing text you've sent to the wrong person?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 26,
+    "content": "Have you ever had feelings for two people at the same time?",
+    "category": "relationships"
+  },
+  {
+    "id": 27,
+    "content": "What's the weirdest food combination you actually enjoy?",
+    "category": "funny"
+  },
+  {
+    "id": 28,
+    "content": "What's something you've done that you're most proud of but never talk about?",
+    "category": "deep"
+  },
+  {
+    "id": 29,
+    "content": "Have you ever lied on your resume or job application?",
+    "category": "general"
+  },
+  {
+    "id": 30,
+    "content": "What's the most embarrassing thing your parents have done in public?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 31,
+    "content": "Have you ever kissed someone you weren't supposed to?",
+    "category": "relationships"
+  },
+  {
+    "id": 32,
+    "content": "What's the dumbest thing you've ever cried about?",
+    "category": "funny"
+  },
+  {
+    "id": 33,
+    "content": "What's your deepest insecurity?",
+    "category": "deep"
+  },
+  {
+    "id": 34,
+    "content": "Have you ever gossiped about someone and got caught?",
+    "category": "general"
+  },
+  {
+    "id": 35,
+    "content": "What's the most embarrassing thing you've worn in public?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 36,
+    "content": "Have you ever been jealous of a friend's relationship?",
+    "category": "relationships"
+  },
+  {
+    "id": 37,
+    "content": "What's the weirdest habit you have when you're alone?",
+    "category": "funny"
+  },
+  {
+    "id": 38,
+    "content": "What's something you wish you could tell your younger self?",
+    "category": "deep"
+  },
+  {
+    "id": 39,
+    "content": "Have you ever faked being asleep to avoid a conversation?",
+    "category": "general"
+  },
+  {
+    "id": 40,
+    "content": "What's the most embarrassing autocorrect fail you've had?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 41,
+    "content": "Have you ever liked someone just because they were popular?",
+    "category": "relationships"
+  },
+  {
+    "id": 42,
+    "content": "What's the funniest thing you believed about adults when you were a kid?",
+    "category": "funny"
+  },
+  {
+    "id": 43,
+    "content": "What's your biggest fear about the future?",
+    "category": "deep"
+  },
+  {
+    "id": 44,
+    "content": "Have you ever pretended to be sick when you weren't?",
+    "category": "general"
+  },
+  {
+    "id": 45,
+    "content": "What's the most embarrassing photo of you that exists?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 46,
+    "content": "Have you ever had a crush on a teacher or boss?",
+    "category": "relationships"
+  },
+  {
+    "id": 47,
+    "content": "What's the weirdest thing you've done when you thought no one was watching?",
+    "category": "funny"
+  },
+  {
+    "id": 48,
+    "content": "What's something you're ashamed of but shouldn't be?",
+    "category": "deep"
+  },
+  {
+    "id": 49,
+    "content": "Have you ever laughed at someone when you shouldn't have?",
+    "category": "general"
+  },
+  {
+    "id": 50,
+    "content": "What's the most embarrassing thing you've said during a presentation or speech?",
+    "category": "embarrassing"
+  },
+  {
+    "id": 51,
+    "content": "Have you ever stayed in a relationship longer than you should have?",
+    "category": "relationships"
+  },
+  {
+    "id": 52,
+    "content": "What's the most ridiculous thing you've done to avoid an awkward situation?",
+    "category": "funny"
+  },
+  {
+    "id": 53,
+    "content": "What's a secret you've never told anyone?",
+    "category": "deep"
+  },
+  {
+    "id": 54,
+    "content": "Have you ever eaten something off the floor?",
+    "category": "general"
+  },
+  {
+    "id": 55,
+    "content": "What's the most embarrassing thing you've done while trying to look cool?",
+    "category": "embarrassing"
+  }
+]

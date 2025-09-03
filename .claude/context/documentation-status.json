@@ -1,0 +1,22 @@
+{
+  "documentation_status": {
+    "api_documentation": "not_started",
+    "user_guide": "not_started", 
+    "developer_guide": "not_started",
+    "deployment_guide": "not_started",
+    "changelog": "not_started"
+  },
+  "generated_docs": [],
+  "doc_generation_tools": {
+    "fastapi_auto_docs": "pending_setup",
+    "openapi_spec": "pending_generation",
+    "readme": "exists_basic"
+  },
+  "documentation_coverage": {
+    "api_endpoints": 0,
+    "models": 0,
+    "services": 0,
+    "configuration": 0
+  },
+  "last_update": "2025-09-03T00:00:00Z"
+}

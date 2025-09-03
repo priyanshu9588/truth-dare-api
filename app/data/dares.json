@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "content": "Do 10 jumping jacks",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "content": "Sing the alphabet backwards",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "content": "Act like your favorite animal for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "content": "Do your best impression of a celebrity",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "content": "Dance with no music for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "content": "Talk in an accent for the next 3 rounds",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "content": "Do 20 push-ups",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "content": "Call a random contact and sing 'Happy Birthday' to them",
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "content": "Eat a spoonful of a condiment",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "content": "Let someone draw on your face with washable markers",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "content": "Do a cartwheel",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "content": "Speak in rhymes for the next 5 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "content": "Post an embarrassing photo of yourself on social media",
+    "difficulty": "hard"
+  },
+  {
+    "id": 14,
+    "content": "Do the worm dance move",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "content": "Let someone tickle you for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "content": "Call your ex and tell them you miss them",
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "content": "Do a handstand for 30 seconds",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "content": "Lick your elbow",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "content": "Send a weird selfie to your parents",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "content": "Go outside and shout 'I love pizza' five times",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "content": "Do your best runway model walk",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "content": "Eat a piece of paper",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "content": "Let someone else post a status on your social media",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "content": "Do 15 burpees",
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "content": "Pretend to be a dog for 2 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "content": "Text your boss something funny",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "content": "Do the floss dance for 1 minute",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "content": "Hop on one foot for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "content": "Let someone give you a new hairstyle",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "content": "Do a silly walk across the room",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "content": "Sing everything you say for the next 10 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "content": "Call a pizza place and ask if they deliver to Mars",
+    "difficulty": "medium"
+  },
+  {
+    "id": 33,
+    "content": "Let the group give you a new name for the rest of the game",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "content": "Do your best evil laugh",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "content": "Wear your clothes backwards for the rest of the game",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "content": "Call a random number and ask if their refrigerator is running",
+    "difficulty": "hard"
+  },
+  {
+    "id": 37,
+    "content": "Do 25 sit-ups",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "content": "Pretend to be a news anchor and report on what everyone is doing",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "content": "Let someone draw a mustache on you",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "content": "Go to the neighbors and ask for a cup of sugar",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "content": "Do your best chicken dance",
+    "difficulty": "easy"
+  },
+  {
+    "id": 42,
+    "content": "Eat something without using your hands",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "content": "Post a video of yourself doing the Macarena on social media",
+    "difficulty": "hard"
+  },
+  {
+    "id": 44,
+    "content": "Do the robot dance for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "content": "Let someone else do your makeup",
+    "difficulty": "medium"
+  },
+  {
+    "id": 46,
+    "content": "Call a restaurant and ask what their WiFi password is",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "content": "Do a magic trick",
+    "difficulty": "easy"
+  },
+  {
+    "id": 48,
+    "content": "Wear socks on your hands for the next 15 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "content": "Go live on social media and sing your favorite song",
+    "difficulty": "hard"
+  },
+  {
+    "id": 50,
+    "content": "Do your best superhero pose and hold it for 30 seconds",
+    "difficulty": "easy"
+  },
+  {
+    "id": 51,
+    "content": "Let someone crack an egg on your head",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "content": "Do a yoga pose for 1 minute",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "content": "Speak only in questions for the next 5 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "content": "Do your best opera singing",
+    "difficulty": "easy"
+  },
+  {
+    "id": 55,
+    "content": "Let someone else choose your profile picture for a week",
+    "difficulty": "hard"
+  }
+]

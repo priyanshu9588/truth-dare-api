@@ -1,0 +1,40 @@
+{
+  "project_constants": {
+    "tech_stack": ["Python", "FastAPI", "JSON", "pytest"],
+    "api_endpoints": {
+      "/truth": "Random truth question",
+      "/dare": "Random dare challenge",
+      "/truth/{category}": "Truth by category",
+      "/dare/{difficulty}": "Dare by difficulty",
+      "/game/random": "Random truth or dare"
+    },
+    "data_schema": {
+      "response_format": {
+        "type": "string",
+        "content": "string", 
+        "category": "string (optional)",
+        "difficulty": "string (easy|medium|hard)"
+      }
+    },
+    "environment_vars": {
+      "PORT": "API server port",
+      "HOST": "API server host",
+      "DEBUG": "Debug mode flag"
+    }
+  },
+  "inter_agent_messages": {},
+  "critical_paths": {
+    "app/main.py": "FastAPI application entry point",
+    "app/data/": "Truth and dare JSON data files",
+    "app/routes/": "API endpoint definitions",
+    "requirements.txt": "Production dependencies"
+  },
+  "known_issues": {},
+  "development_phases": {
+    "phase_1": "Project setup and structure",
+    "phase_2": "Core API implementation",
+    "phase_3": "Data management and endpoints",
+    "phase_4": "Testing and validation",
+    "phase_5": "Security and documentation"
+  }
+}
