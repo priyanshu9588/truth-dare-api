@@ -513,15 +513,11 @@ Edit `app/data/dares.json`:
 }
 ```
 
-## 📄 License
-
-[Add your license information here]
-
 ## 🙋 Support
 
 - **Documentation**: http://localhost:8000/docs (when running)
-- **Issues**: [Create an issue](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
+- **Issues**: [Create an issue](https://github.com/priyanshu9588/truth-dare-api/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/priyanshu9588/truth-dare-api/discussions)
 
 ---
 
